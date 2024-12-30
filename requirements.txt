@@ -1,0 +1,6 @@
+torch
+torchvision
+regex
+ftfy
+packaging
+tqdm
